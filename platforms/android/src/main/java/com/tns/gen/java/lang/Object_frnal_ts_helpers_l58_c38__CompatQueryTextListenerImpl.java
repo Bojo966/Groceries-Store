@@ -1,7 +1,7 @@
 package com.tns.gen.java.lang;
 
-public class Object_frnal_ts_helpers_l58_c38__QueryTextListenerImpl extends java.lang.Object implements com.tns.NativeScriptHashCodeProvider, android.widget.SearchView.OnQueryTextListener {
-	public Object_frnal_ts_helpers_l58_c38__QueryTextListenerImpl(){
+public class Object_frnal_ts_helpers_l58_c38__CompatQueryTextListenerImpl extends java.lang.Object implements com.tns.NativeScriptHashCodeProvider, android.support.v7.widget.SearchView.OnQueryTextListener {
+	public Object_frnal_ts_helpers_l58_c38__CompatQueryTextListenerImpl(){
 		super();
 		com.tns.Runtime.initInstance(this);
 	}
