@@ -3,6 +3,7 @@ E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\
 E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\shared\utils\ios-swipe-delete.js
 E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\shared\view-models\grocery-list-view-model.js
 E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\shared\view-models\user-view-model.js
+E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 E:\Workbench\NativeScript\Groceries-Store\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
